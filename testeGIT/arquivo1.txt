@@ -1,1 +1,2 @@
 testando conflito branch
+Fazendo teste sobre conflito!
